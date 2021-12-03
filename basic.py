@@ -1,6 +1,5 @@
 num = 2**68
 _temp = 0
-text = "Fail\n"
 
 for i in range(500000):
   num+=1
